@@ -1,0 +1,26 @@
+{
+  "name": "check-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PKulkoRaccoonGang/check-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PKulkoRaccoonGang/check-types/issues"
+  },
+  "homepage": "https://github.com/PKulkoRaccoonGang/check-types#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@codechecks/client": "^0.1.12",
+    "typecov": "^0.2.3"
+  }
+}
